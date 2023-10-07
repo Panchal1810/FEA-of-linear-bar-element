@@ -5,7 +5,7 @@ The varying cross section bar is solved using Finite Element Method by consideri
 
 
 
-Convergence study with respect to tip displacement of the bar
+Convergence study with respect to displacement of the bar
 
 ![image](https://github.com/Panchal1810/FEA-of-linear-bar-element/assets/122630851/fd9b42cf-0ee5-4024-8d62-ec5fa4f68034)
 
