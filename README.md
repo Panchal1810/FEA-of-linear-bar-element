@@ -1,5 +1,5 @@
 # FEA-of-linear-bar-element
-The varying cross section bar is solved using Finite Element Method by considering linear bar element. The problem is solved using MATLAB.
+The varying cross section bar is solved using Finite Element Method by considering linear bar element. The problem is solved using MATLAB. The code calculates local stiffness matrix by reading the excel data and relates with global stiffness matrix. After it finds the displacment by U =K/F and also calculates elemental stress, force and strain.
 
 ![image](https://github.com/Panchal1810/FEA-of-linear-bar-element/assets/122630851/9433a33f-c33d-4fa8-9243-c24c502aba13)
 
