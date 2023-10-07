@@ -1,6 +1,10 @@
 # FEA-of-linear-bar-element
 The varying cross section bar is solved using Finite Element Method by considering linear bar element. The problem is solved using MATLAB.
 
+![image](https://github.com/Panchal1810/FEA-of-linear-bar-element/assets/122630851/9433a33f-c33d-4fa8-9243-c24c502aba13)
+
+
+
 Convergence study with respect to tip displacement of the bar
 
 ![image](https://github.com/Panchal1810/FEA-of-linear-bar-element/assets/122630851/fd9b42cf-0ee5-4024-8d62-ec5fa4f68034)
